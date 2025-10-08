@@ -1,16 +1,12 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=90ee90&text=BEM%20VINDO!!&fontAlign=50&fontSize=30&fontAlignY=30" />
+<div style="display: inline_block"><br>
 
-<!--
-**breealm/breealm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div> 
+  
+ <img align="right" width="50%" src="https://github.com/oajurbd/site-/blob/main/imagem.gif" alt="Imagem">
+<div align = "left">
+<img height = "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breealm&show_icons=true&theme=gotham&count_private=true&layout=compact" />
+<img height = "150em" src="https://github-readme-stats.vercel.app/api?username=breealm&show_icons=true&show_icons=true&theme=gotham&count_private=true" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=90ee90&text=breealm-%20Brenda%20Gomes&section=footer&fontAlign=50&fontSize=20&fontAlignY=74" />
